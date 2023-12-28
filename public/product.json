@@ -1,38 +1,59 @@
 [
     {
-      "image": "product1.jpg",
-      "productName": "Product 1",
+      "image": "https://img.freepik.com/free-photo/television-houseplants-room-scene-generative-ai_188544-12145.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais",
+      "productName": "LG Monitor 43xn",
       "rating": 4.5,
-      "title": "High-quality product",
-      "price": 29.99
+      "title": "LG Monitor original",
+      "price": 29000.99
     },
     {
-      "image": "product2.jpg",
-      "productName": "Product 2",
+      "image": "https://img.freepik.com/free-photo/landscape-nature-scene-tv-appliance-generative-ai_188544-12122.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais",
+      "productName": "Samsung m20",
+      "rating": 3.8,
+      "title": "Affordable and stylish monitor",
+      "price": 90000.99
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/television-with-candles-room-generative-ai_188544-19471.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais",
+      "productName": "Samsung m20 pro",
+      "rating": 4.2,
+      "title": "Great value for money",
+      "price": 40000.99
+    },
+    {
+      "image": "https://img.freepik.com/free-psd/computer-mockup_1310-706.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais",
+      "productName": "HP Elite Computer",
+      "rating": 4.0,
+      "title": "Elegant design",
+      "price": 96000
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/technology-electronic-devices_144627-10803.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais",
+      "productName": "HP ZenBook Laptop",
+      "rating": 4.7,
+      "title": "Top-rated choice",
+      "price": 85000
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/closeup-digital-camera-with-lenses_181624-59757.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph",
+      "productName": "Nikon g43",
+      "rating": 4.5,
+      "title": "High-quality product",
+      "price": 75000
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/top-view-photography-accesories-with-copy-space_23-2148363427.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph",
+      "productName": "Nikon g43 Pro",
       "rating": 3.8,
       "title": "Affordable and stylish",
       "price": 19.99
     },
     {
-      "image": "product3.jpg",
-      "productName": "Product 3",
+      "image": "https://img.freepik.com/free-photo/top-view-photography-accesories-with-copy-space_23-2148363427.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph",
+      "productName": "Canon g5",
       "rating": 4.2,
       "title": "Great value for money",
       "price": 24.99
-    },
-    {
-      "image": "product4.jpg",
-      "productName": "Product 4",
-      "rating": 4.0,
-      "title": "Elegant design",
-      "price": 39.99
-    },
-    {
-      "image": "product5.jpg",
-      "productName": "Product 5",
-      "rating": 4.7,
-      "title": "Top-rated choice",
-      "price": 49.99
     }
   ]
   
