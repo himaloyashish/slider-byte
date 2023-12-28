@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
 import Home from "../page/Home";
 import Slider from "../components/slider/Slider";
-import Sliders from "../components/slider2/Sliders";
+
 
 const router = createBrowserRouter([
     {
@@ -17,10 +17,7 @@ const router = createBrowserRouter([
                 path:'slider',
                 element:<Slider></Slider>
             },
-            {
-                path:'/sliders',
-                element:<Sliders></Sliders>
-            }
+           
         ]
     }
 ])
