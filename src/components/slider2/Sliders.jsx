@@ -2,6 +2,7 @@ import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import axios from 'axios';
+import { useQuery } from '@tanstack/react-query';
 
 const Sliders = () => {
 
@@ -19,11 +20,11 @@ const Sliders = () => {
     return (
         <Carousel>
             
-            <div>
+            <div className='grid lg:grid-cols-2'>
                 {
-                    products.map(product=>{
-                        
-                    })
+                    products.map(product=>(
+                        <img src={product.image} alt="1" />
+                    ))
                 }
             </div>
         </Carousel>

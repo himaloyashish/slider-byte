@@ -8,9 +8,19 @@ import axios from 'axios';
 const Slider = () => {
 
 
-    
+    const { data: products = [] } = useQuery({
+        queryKey: ["AllProduct"],
+        queryFn: async () => {
+            const res = await axios("product.json");
+
+            return res?.data;
+        }
+    })
+
+    console.log(products);
+
     return (
-        <swiper-container slides-per-view="4" navigation="true" space-between='20' loop='true'>
+        <swiper-container slides-per-view="3" navigation="true" space-between='20' loop='true'>
             <swiper-slide >
                 <img className='w-1/3' src="https://img.freepik.com/free-photo/television-houseplants-room-scene-generative-ai_188544-12145.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais" alt="product_1" />
                 <div>
