@@ -28,7 +28,8 @@ swiper-slide img{
 
 }
 
-swiper-slide div p{
-    font-size: 1rem;
+swiper-slide {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
    
 }
