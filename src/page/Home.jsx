@@ -1,5 +1,7 @@
 // import React from 'react';
 
+import Slider from "../components/slider/Slider";
+
 // import { EffectFade, Navigation, Pagination } from 'swiper/modules';
 // import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -9,6 +11,8 @@
 
 const Home = () => {
     return (
+
+        <Slider></Slider>
         // <>
         //     <Swiper
         //         spaceBetween={30}
@@ -22,7 +26,7 @@ const Home = () => {
         //     >
         //         <SwiperSlide className='  bg-[#F3CCF3] h-auto w-full' >
         //             {/* <div className='slide'>
-                       
+
         //             </div> */}
         //             <div className='grid lg:grid-cols-3 h-full  ' >
         //                 <img className='w-full ' src="https://img.freepik.com/free-photo/light-forest-day-anime-background-illustration-generative-ai_1258-150804.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph" />
@@ -44,7 +48,7 @@ const Home = () => {
         //         <p>ok</p>
         //     </div>
         // </>
-        ''
+
     );
 };
 

@@ -1,0 +1,38 @@
+[
+    {
+      "image": "product1.jpg",
+      "productName": "Product 1",
+      "rating": 4.5,
+      "title": "High-quality product",
+      "price": 29.99
+    },
+    {
+      "image": "product2.jpg",
+      "productName": "Product 2",
+      "rating": 3.8,
+      "title": "Affordable and stylish",
+      "price": 19.99
+    },
+    {
+      "image": "product3.jpg",
+      "productName": "Product 3",
+      "rating": 4.2,
+      "title": "Great value for money",
+      "price": 24.99
+    },
+    {
+      "image": "product4.jpg",
+      "productName": "Product 4",
+      "rating": 4.0,
+      "title": "Elegant design",
+      "price": 39.99
+    },
+    {
+      "image": "product5.jpg",
+      "productName": "Product 5",
+      "rating": 4.7,
+      "title": "Top-rated choice",
+      "price": 49.99
+    }
+  ]
+  
