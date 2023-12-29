@@ -4,6 +4,7 @@
       "productName": "LG Monitor 43xn",
       "rating": 4.5,
       "title": "LG Monitor original",
+      "category":"television",
       "price": 29000.99
     },
     {
@@ -11,6 +12,7 @@
       "productName": "Samsung m20",
       "rating": 3.8,
       "title": "Affordable and stylish monitor",
+      "category":"television",
       "price": 90000.99
     },
     {
@@ -18,6 +20,7 @@
       "productName": "Samsung m20 pro",
       "rating": 4.2,
       "title": "Great value for money",
+      "category":"television",
       "price": 40000.99
     },
     {
@@ -25,6 +28,7 @@
       "productName": "HP Elite Computer",
       "rating": 4.0,
       "title": "Elegant design",
+      "category":"laptop",
       "price": 96000
     },
     {
@@ -32,6 +36,7 @@
       "productName": "HP ZenBook Laptop",
       "rating": 4.7,
       "title": "Top-rated choice",
+      "category":"laptop",
       "price": 85000
     },
     {
@@ -39,6 +44,7 @@
       "productName": "Nikon g43",
       "rating": 4.5,
       "title": "High-quality product",
+      "category":"laptop",
       "price": 75000
     },
     {
@@ -46,13 +52,23 @@
       "productName": "Nikon g43 Pro",
       "rating": 3.8,
       "title": "Affordable and stylish",
+      "category":"camera",
       "price": 19.99
     },
     {
-      "image": "https://img.freepik.com/free-photo/top-view-photography-accesories-with-copy-space_23-2148363427.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph",
-      "productName": "Canon g5",
+      "image": "https://img.freepik.com/free-photo/camera-photographic-with-smartphone-devices-generative-ai_188544-12171.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph",
+      "productName": "Canon g55",
       "rating": 4.2,
       "title": "Great value for money",
+      "category":"camera",
+      "price": 24.99
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/high-angle-shot-lens-headphones-gimbal-phone_181624-43878.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=sph",
+      "productName": "Canon g65",
+      "rating": 4.2,
+      "title": "Great value for money",
+      "category":"camera",
       "price": 24.99
     }
   ]
